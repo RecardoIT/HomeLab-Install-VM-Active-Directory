@@ -4,6 +4,8 @@
 
 <h2>Description</h2>
 A project created within Oracle VirtualBox, in which i created two seperate virtual machines, one running Windows Server 2022 to manage Active Directory, and the second running Windows Enterprise. I also show how to configure an internal network inside of Windows Server 2022.
+
+During this section. I will go over how to install your Windows Server 2022 virtual machine, as well as configure the interal network and install active directory.
 <br />
 
 
