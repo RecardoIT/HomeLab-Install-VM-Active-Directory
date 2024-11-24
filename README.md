@@ -30,7 +30,7 @@ Next, we will setup an admin username and password to boot into Windows with.  <
 <img src="https://imgur.com/4KN0ihY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Since i have 16gb of RAM, i will give the VM 4GB to allow my native system to still run well. <br/>
+It's important to allocate the right amount of system memory, as well as CPU threads here. My system contains 16GB RAM, as well as a CPU containing 16 threads. Since we are not running any demanding applications on the Virtual Machine, i will allocate a quarter of RAM & CPU threads to be safe.   <br/>
 <img src="https://imgur.com/3avB9Lc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
