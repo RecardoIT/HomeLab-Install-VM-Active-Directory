@@ -1,9 +1,9 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>VM-Home-Lab-Setup</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+A project created within Oracle VirtualBox, in which i created two seperate virtual machines, one running Windows Server 2022 to manage Active Directory, and the second running Windows Enterprise.
 <br />
 
 
@@ -14,25 +14,26 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows Server 2022</b> 
+- <b>Windows 11 Enterprise</b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating Active Directory VM With ISO, making sure to click the option for desktop experience. <br/>
+<img src="https://imgur.com/R6Hd4qY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up an admin username and password to boot into Windows with.  <br/>
+<img src="https://imgur.com/4KN0ihY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Since i have 16gb of RAM, i will give the VM 4GB to allow my native system to still run well. <br/>
+<img src="https://imgur.com/3avB9Lc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installing Windows Server 2022.  <br/>
+<img src="https://imgur.com/v8uWdDq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
