@@ -54,6 +54,7 @@ Once that's done, rename the second network adapter to "internal" so you can cle
 <img src="https://imgur.com/T3uXGU4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<br />
 Now we are ready to install Active Directory, search for "Server Manager" through the Windows search bar and open it. <br/>
 <img src="https://imgur.com/4BQZC7i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -78,7 +79,7 @@ You will then be asked to restart your machine, if not then manually press windo
 <img src="https://imgur.com/UzIzOVm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Finally, open "Server Manager" again, and if successful your AD DS will be marked green, as well as anything else installed during the creating of your internal domain!  <br/>
+Finally, open "Server Manager" again, and if successful your AD DS will be marked green, as well as anything else installed during the creation of your internal domain!  <br/>
 <img src="https://imgur.com/gxBpXHt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
