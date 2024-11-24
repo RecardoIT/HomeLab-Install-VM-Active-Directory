@@ -22,7 +22,7 @@ During this section. I will go over how to install your Windows Server 2022 virt
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating Active Directory VM With ISO, making sure to click the option for desktop experience. <br/>
+First, we will Create the Windows Server 2022 VM. Select the "ISO image" option and select your Windows Server 2022 ISO, make sure to check the desktop expirience under the "Type" section inside of Oracle VirtualBox  <br/>
 <img src="https://imgur.com/R6Hd4qY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
