@@ -26,7 +26,7 @@ First, we will Create the Windows Server 2022 VM. Select the "ISO image" option 
 <img src="https://imgur.com/R6Hd4qY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setting up an admin username and password to boot into Windows with.  <br/>
+Next, we will setup an admin username and password to boot into Windows with.  <br/>
 <img src="https://imgur.com/4KN0ihY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
