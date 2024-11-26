@@ -5,16 +5,10 @@
 During this section. I will go over how to install your Windows Server 2022 virtual machine, as well as configure the internal network and install active directory.
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
+<h2>Environments & Software Used </h2>
 
 - <b>Windows Server 2022</b> 
-- <b>Windows 11 Enterprise</b> 
+- <b>Oracle VirtualBox</b> 
 
 <h2>Program walk-through:</h2>
 
