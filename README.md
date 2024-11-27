@@ -1,7 +1,5 @@
 <h1>Installing VM & Active Directory</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 During this section. I will go over how to install your Windows Server 2022 virtual machine, as well as configure the internal network and install active directory.
 <br />
 
